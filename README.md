@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently a 3rd Year Engineering Student pursuing my Btech in CSE. I love doing coding and solving DSA problems. My prefererred language is Java. I want to become a Java full stack Developer. In mean times i love watching movies and series<br>
+I'm currently a 3rd Year Engineering Student pursuing my Btech in CSE. I love doing coding and solving DSA problems. My prefererred language is Java. I want to become a Java full stack Developer. In mean times I love watching movies and series<br>
 
 
 ## 🌐 Socials:
